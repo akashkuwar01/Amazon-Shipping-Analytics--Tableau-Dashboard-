@@ -1,0 +1,2 @@
+# Amazon-Shipping-Analytics--Tableau-Dashboard-
+Amazon Shipping is a company which ships variety of Fast Moving Consumer Goods all over the world. The Shipping Manager doesn't have much visibility&amp;doesn't know how many orders are processed &amp; shipped on a monthly basis. He would like a dashboard of this where he selects a month and can tell how many orders are outstanding a day and to be Shipped
