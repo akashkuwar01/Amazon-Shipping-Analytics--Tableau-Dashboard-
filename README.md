@@ -9,12 +9,12 @@ https://github.com/akashkuwar01/Amazon-Shipping-Analytics--Tableau-Dashboard-/as
 
 What it is?
 
-Just a simple data dump from SQL'database to a CSV
+Just a data dump from SQL'database to a CSV
 
 What it needs
 
 There aren't any employee/product images
-It's a straight data dump - no relations or special magic
+It's a straight data dump - no special magic
 
 Collections To Create
 
